@@ -1,7 +1,7 @@
 # speech-assstant
 desktop speech assistant
 
-A simple, functional desktop personal  with python
+A simple, functional desktop personal assistant with python
 firstly these python libraries must be installed
 SpeechRecognition
 Beautifulsoup4
